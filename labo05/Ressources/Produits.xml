@@ -1,0 +1,928 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  href="Liste_Produit.xsl" type="text/xsl"?>
+<dataroot>
+<Produits>
+<Réf_produit>1</Réf_produit>
+<Nom_du_produit>Chai</Nom_du_produit>
+<N_fournisseur>1</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>10 boîtes x 20 sacs</Quantité_par_unité>
+<Prix_unitaire>18</Prix_unitaire>
+<Unités_en_stock>39</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>2</Réf_produit>
+<Nom_du_produit>Chang</Nom_du_produit>
+<N_fournisseur>1</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (1 litre)</Quantité_par_unité>
+<Prix_unitaire>19</Prix_unitaire>
+<Unités_en_stock>17</Unités_en_stock>
+<Unités_commandées>40</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>3</Réf_produit>
+<Nom_du_produit>Aniseed Syrup</Nom_du_produit>
+<N_fournisseur>1</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>12 bouteilles (550 ml)</Quantité_par_unité>
+<Prix_unitaire>10</Prix_unitaire>
+<Unités_en_stock>13</Unités_en_stock>
+<Unités_commandées>70</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>4</Réf_produit>
+<Nom_du_produit>Chef Anton&apos;s Cajun Seasoning</Nom_du_produit>
+<N_fournisseur>2</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>48 pots (6 onces)</Quantité_par_unité>
+<Prix_unitaire>22</Prix_unitaire>
+<Unités_en_stock>53</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>5</Réf_produit>
+<Nom_du_produit>Chef Anton&apos;s Gumbo Mix</Nom_du_produit>
+<N_fournisseur>2</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>36 boîtes</Quantité_par_unité>
+<Prix_unitaire>21.35</Prix_unitaire>
+<Unités_en_stock>0</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>6</Réf_produit>
+<Nom_du_produit>Grandma&apos;s Boysenberry Spread</Nom_du_produit>
+<N_fournisseur>3</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>12 pots (8 onces)</Quantité_par_unité>
+<Prix_unitaire>25</Prix_unitaire>
+<Unités_en_stock>120</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>7</Réf_produit>
+<Nom_du_produit>Uncle Bob&apos;s Organic Dried Pears</Nom_du_produit>
+<N_fournisseur>3</N_fournisseur>
+<Code_catégorie>7</Code_catégorie>
+<Quantité_par_unité>12 cartons (1 kg)</Quantité_par_unité>
+<Prix_unitaire>30</Prix_unitaire>
+<Unités_en_stock>15</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>8</Réf_produit>
+<Nom_du_produit>Northwoods Cranberry Sauce</Nom_du_produit>
+<N_fournisseur>3</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>12 pots (12 onces)</Quantité_par_unité>
+<Prix_unitaire>40</Prix_unitaire>
+<Unités_en_stock>6</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>9</Réf_produit>
+<Nom_du_produit>Mishi Kobe Niku</Nom_du_produit>
+<N_fournisseur>4</N_fournisseur>
+<Code_catégorie>6</Code_catégorie>
+<Quantité_par_unité>18 cartons (500 g)</Quantité_par_unité>
+<Prix_unitaire>97</Prix_unitaire>
+<Unités_en_stock>29</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>10</Réf_produit>
+<Nom_du_produit>Ikura</Nom_du_produit>
+<N_fournisseur>4</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>12 pots (200 g)</Quantité_par_unité>
+<Prix_unitaire>31</Prix_unitaire>
+<Unités_en_stock>31</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>11</Réf_produit>
+<Nom_du_produit>Queso Cabrales</Nom_du_produit>
+<N_fournisseur>5</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>1 carton (1 kg)</Quantité_par_unité>
+<Prix_unitaire>21</Prix_unitaire>
+<Unités_en_stock>22</Unités_en_stock>
+<Unités_commandées>30</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>12</Réf_produit>
+<Nom_du_produit>Queso Manchego La Pastora</Nom_du_produit>
+<N_fournisseur>5</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>10 cartons (500 g)</Quantité_par_unité>
+<Prix_unitaire>38</Prix_unitaire>
+<Unités_en_stock>86</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>13</Réf_produit>
+<Nom_du_produit>Konbu</Nom_du_produit>
+<N_fournisseur>6</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>1 boîtes (2 kg)</Quantité_par_unité>
+<Prix_unitaire>6</Prix_unitaire>
+<Unités_en_stock>24</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>14</Réf_produit>
+<Nom_du_produit>Tofu</Nom_du_produit>
+<N_fournisseur>6</N_fournisseur>
+<Code_catégorie>7</Code_catégorie>
+<Quantité_par_unité>40 cartons (100 g)</Quantité_par_unité>
+<Prix_unitaire>23.25</Prix_unitaire>
+<Unités_en_stock>35</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>15</Réf_produit>
+<Nom_du_produit>Genen Shouyu</Nom_du_produit>
+<N_fournisseur>6</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (250 ml)</Quantité_par_unité>
+<Prix_unitaire>15.5</Prix_unitaire>
+<Unités_en_stock>39</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>16</Réf_produit>
+<Nom_du_produit>Pavlova</Nom_du_produit>
+<N_fournisseur>7</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>32 boîtes (500 g)</Quantité_par_unité>
+<Prix_unitaire>17.45</Prix_unitaire>
+<Unités_en_stock>29</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>17</Réf_produit>
+<Nom_du_produit>Alice Mutton</Nom_du_produit>
+<N_fournisseur>7</N_fournisseur>
+<Code_catégorie>6</Code_catégorie>
+<Quantité_par_unité>20 boîtes (1 kg)</Quantité_par_unité>
+<Prix_unitaire>39</Prix_unitaire>
+<Unités_en_stock>0</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>18</Réf_produit>
+<Nom_du_produit>Carnarvon Tigers</Nom_du_produit>
+<N_fournisseur>7</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>1 carton (16 kg)</Quantité_par_unité>
+<Prix_unitaire>62.5</Prix_unitaire>
+<Unités_en_stock>42</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>19</Réf_produit>
+<Nom_du_produit>Teatime Chocolate Biscuits</Nom_du_produit>
+<N_fournisseur>8</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>10 boîtes x 12 pièces</Quantité_par_unité>
+<Prix_unitaire>9.2</Prix_unitaire>
+<Unités_en_stock>25</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>20</Réf_produit>
+<Nom_du_produit>Sir Rodney&apos;s Marmalade</Nom_du_produit>
+<N_fournisseur>8</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>30 boîtes</Quantité_par_unité>
+<Prix_unitaire>81</Prix_unitaire>
+<Unités_en_stock>40</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>21</Réf_produit>
+<Nom_du_produit>Sir Rodney&apos;s Scones</Nom_du_produit>
+<N_fournisseur>8</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>24 cartons x 4 pièces</Quantité_par_unité>
+<Prix_unitaire>10</Prix_unitaire>
+<Unités_en_stock>3</Unités_en_stock>
+<Unités_commandées>40</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>22</Réf_produit>
+<Nom_du_produit>Gustaf&apos;s Knäckebröd</Nom_du_produit>
+<N_fournisseur>9</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>24 cartons (500 g)</Quantité_par_unité>
+<Prix_unitaire>21</Prix_unitaire>
+<Unités_en_stock>104</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>23</Réf_produit>
+<Nom_du_produit>Tunnbröd</Nom_du_produit>
+<N_fournisseur>9</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>12 cartons (250 g)</Quantité_par_unité>
+<Prix_unitaire>9</Prix_unitaire>
+<Unités_en_stock>61</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>24</Réf_produit>
+<Nom_du_produit>Guaraná Fantástica</Nom_du_produit>
+<N_fournisseur>10</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>12 canettes (355 ml)</Quantité_par_unité>
+<Prix_unitaire>4.5</Prix_unitaire>
+<Unités_en_stock>20</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>25</Réf_produit>
+<Nom_du_produit>NuNuCa Nuß-Nougat-Creme</Nom_du_produit>
+<N_fournisseur>11</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>20 verres (450 g)</Quantité_par_unité>
+<Prix_unitaire>14</Prix_unitaire>
+<Unités_en_stock>76</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>26</Réf_produit>
+<Nom_du_produit>Gumbär Gummibärchen</Nom_du_produit>
+<N_fournisseur>11</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>100 sacs (250 g)</Quantité_par_unité>
+<Prix_unitaire>31.23</Prix_unitaire>
+<Unités_en_stock>15</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>27</Réf_produit>
+<Nom_du_produit>Schoggi Schokolade</Nom_du_produit>
+<N_fournisseur>11</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>100 pièces (100 g)</Quantité_par_unité>
+<Prix_unitaire>43.9</Prix_unitaire>
+<Unités_en_stock>49</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>28</Réf_produit>
+<Nom_du_produit>Rössle Sauerkraut</Nom_du_produit>
+<N_fournisseur>12</N_fournisseur>
+<Code_catégorie>7</Code_catégorie>
+<Quantité_par_unité>25 canettes (825 g)</Quantité_par_unité>
+<Prix_unitaire>45.6</Prix_unitaire>
+<Unités_en_stock>26</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>29</Réf_produit>
+<Nom_du_produit>Thüringer Rostbratwurst</Nom_du_produit>
+<N_fournisseur>12</N_fournisseur>
+<Code_catégorie>6</Code_catégorie>
+<Quantité_par_unité>50 sacs x 30 saucisses</Quantité_par_unité>
+<Prix_unitaire>123.79</Prix_unitaire>
+<Unités_en_stock>0</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>30</Réf_produit>
+<Nom_du_produit>Nord-Ost Matjeshering</Nom_du_produit>
+<N_fournisseur>13</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>10 verres (200 g)</Quantité_par_unité>
+<Prix_unitaire>25.89</Prix_unitaire>
+<Unités_en_stock>10</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>31</Réf_produit>
+<Nom_du_produit>Gorgonzola Telino</Nom_du_produit>
+<N_fournisseur>14</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>12 cartons (100 g)</Quantité_par_unité>
+<Prix_unitaire>12.5</Prix_unitaire>
+<Unités_en_stock>0</Unités_en_stock>
+<Unités_commandées>70</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>32</Réf_produit>
+<Nom_du_produit>Mascarpone Fabioli</Nom_du_produit>
+<N_fournisseur>14</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>24 cartons (200 g)</Quantité_par_unité>
+<Prix_unitaire>32</Prix_unitaire>
+<Unités_en_stock>9</Unités_en_stock>
+<Unités_commandées>40</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>33</Réf_produit>
+<Nom_du_produit>Geitost</Nom_du_produit>
+<N_fournisseur>15</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>1 carton (500 g)</Quantité_par_unité>
+<Prix_unitaire>2.5</Prix_unitaire>
+<Unités_en_stock>112</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>34</Réf_produit>
+<Nom_du_produit>Sasquatch Ale</Nom_du_produit>
+<N_fournisseur>16</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (70 cl)</Quantité_par_unité>
+<Prix_unitaire>14</Prix_unitaire>
+<Unités_en_stock>111</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>35</Réf_produit>
+<Nom_du_produit>Steeleye Stout</Nom_du_produit>
+<N_fournisseur>16</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (1 litre)</Quantité_par_unité>
+<Prix_unitaire>18</Prix_unitaire>
+<Unités_en_stock>20</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>36</Réf_produit>
+<Nom_du_produit>Inlagd Sill</Nom_du_produit>
+<N_fournisseur>17</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>24 pots (250 g)</Quantité_par_unité>
+<Prix_unitaire>19</Prix_unitaire>
+<Unités_en_stock>112</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>37</Réf_produit>
+<Nom_du_produit>Gravad lax</Nom_du_produit>
+<N_fournisseur>17</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>12 cartons (500 g)</Quantité_par_unité>
+<Prix_unitaire>26</Prix_unitaire>
+<Unités_en_stock>11</Unités_en_stock>
+<Unités_commandées>50</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>38</Réf_produit>
+<Nom_du_produit>Côte de Blaye</Nom_du_produit>
+<N_fournisseur>18</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>12 bouteilles (75 cl)</Quantité_par_unité>
+<Prix_unitaire>263.5</Prix_unitaire>
+<Unités_en_stock>17</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>39</Réf_produit>
+<Nom_du_produit>Chartreuse verte</Nom_du_produit>
+<N_fournisseur>18</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>1 bouteille (750 cc)</Quantité_par_unité>
+<Prix_unitaire>18</Prix_unitaire>
+<Unités_en_stock>69</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>40</Réf_produit>
+<Nom_du_produit>Boston Crab Meat</Nom_du_produit>
+<N_fournisseur>19</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>24 boîtes (4 onces)</Quantité_par_unité>
+<Prix_unitaire>18.4</Prix_unitaire>
+<Unités_en_stock>123</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>41</Réf_produit>
+<Nom_du_produit>Jack&apos;s New England Clam Chowder</Nom_du_produit>
+<N_fournisseur>19</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>12 canettes (330 ml)</Quantité_par_unité>
+<Prix_unitaire>9.65</Prix_unitaire>
+<Unités_en_stock>85</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>42</Réf_produit>
+<Nom_du_produit>Singaporean Hokkien Fried Mee</Nom_du_produit>
+<N_fournisseur>20</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>32 cartons (1 kg)</Quantité_par_unité>
+<Prix_unitaire>14</Prix_unitaire>
+<Unités_en_stock>26</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>43</Réf_produit>
+<Nom_du_produit>Ipoh Coffee</Nom_du_produit>
+<N_fournisseur>20</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>16 boîtes (500 g)</Quantité_par_unité>
+<Prix_unitaire>46</Prix_unitaire>
+<Unités_en_stock>17</Unités_en_stock>
+<Unités_commandées>10</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>44</Réf_produit>
+<Nom_du_produit>Gula Malacca</Nom_du_produit>
+<N_fournisseur>20</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>20 cartons (2 kg)</Quantité_par_unité>
+<Prix_unitaire>19.45</Prix_unitaire>
+<Unités_en_stock>27</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>45</Réf_produit>
+<Nom_du_produit>Røgede sild</Nom_du_produit>
+<N_fournisseur>21</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>1 carton (1kg)</Quantité_par_unité>
+<Prix_unitaire>9.5</Prix_unitaire>
+<Unités_en_stock>5</Unités_en_stock>
+<Unités_commandées>70</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>46</Réf_produit>
+<Nom_du_produit>Spegesild</Nom_du_produit>
+<N_fournisseur>21</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>4 boîtes (250 g)</Quantité_par_unité>
+<Prix_unitaire>12</Prix_unitaire>
+<Unités_en_stock>95</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>47</Réf_produit>
+<Nom_du_produit>Zaanse koeken</Nom_du_produit>
+<N_fournisseur>22</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>10 boîtes (4 onces)</Quantité_par_unité>
+<Prix_unitaire>9.5</Prix_unitaire>
+<Unités_en_stock>36</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>48</Réf_produit>
+<Nom_du_produit>Chocolade</Nom_du_produit>
+<N_fournisseur>22</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>10 cartons</Quantité_par_unité>
+<Prix_unitaire>12.75</Prix_unitaire>
+<Unités_en_stock>15</Unités_en_stock>
+<Unités_commandées>70</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>49</Réf_produit>
+<Nom_du_produit>Maxilaku</Nom_du_produit>
+<N_fournisseur>23</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>24 cartons (50 g)</Quantité_par_unité>
+<Prix_unitaire>20</Prix_unitaire>
+<Unités_en_stock>10</Unités_en_stock>
+<Unités_commandées>60</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>50</Réf_produit>
+<Nom_du_produit>Valkoinen suklaa</Nom_du_produit>
+<N_fournisseur>23</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>12 plaquettes (100 g)</Quantité_par_unité>
+<Prix_unitaire>16.25</Prix_unitaire>
+<Unités_en_stock>65</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>51</Réf_produit>
+<Nom_du_produit>Manjimup Dried Apples</Nom_du_produit>
+<N_fournisseur>24</N_fournisseur>
+<Code_catégorie>7</Code_catégorie>
+<Quantité_par_unité>50 cartons (300 g)</Quantité_par_unité>
+<Prix_unitaire>53</Prix_unitaire>
+<Unités_en_stock>20</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>52</Réf_produit>
+<Nom_du_produit>Filo Mix</Nom_du_produit>
+<N_fournisseur>24</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>16 boîtes (2 kg)</Quantité_par_unité>
+<Prix_unitaire>7</Prix_unitaire>
+<Unités_en_stock>38</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>53</Réf_produit>
+<Nom_du_produit>Perth Pasties</Nom_du_produit>
+<N_fournisseur>24</N_fournisseur>
+<Code_catégorie>6</Code_catégorie>
+<Quantité_par_unité>48 pièces</Quantité_par_unité>
+<Prix_unitaire>32.8</Prix_unitaire>
+<Unités_en_stock>0</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>1</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>54</Réf_produit>
+<Nom_du_produit>Tourtière</Nom_du_produit>
+<N_fournisseur>25</N_fournisseur>
+<Code_catégorie>6</Code_catégorie>
+<Quantité_par_unité>16 tartes</Quantité_par_unité>
+<Prix_unitaire>7.45</Prix_unitaire>
+<Unités_en_stock>21</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>55</Réf_produit>
+<Nom_du_produit>Pâté chinois</Nom_du_produit>
+<N_fournisseur>25</N_fournisseur>
+<Code_catégorie>6</Code_catégorie>
+<Quantité_par_unité>24 boîtes x 2 tartes</Quantité_par_unité>
+<Prix_unitaire>24</Prix_unitaire>
+<Unités_en_stock>115</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>56</Réf_produit>
+<Nom_du_produit>Gnocchi di nonna Alice</Nom_du_produit>
+<N_fournisseur>26</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>24 cartons (250 g)</Quantité_par_unité>
+<Prix_unitaire>38</Prix_unitaire>
+<Unités_en_stock>21</Unités_en_stock>
+<Unités_commandées>10</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>57</Réf_produit>
+<Nom_du_produit>Ravioli Angelo</Nom_du_produit>
+<N_fournisseur>26</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>24 cartons (250 g)</Quantité_par_unité>
+<Prix_unitaire>19.5</Prix_unitaire>
+<Unités_en_stock>36</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>58</Réf_produit>
+<Nom_du_produit>Escargots de Bourgogne</Nom_du_produit>
+<N_fournisseur>27</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>24 pièces</Quantité_par_unité>
+<Prix_unitaire>13.25</Prix_unitaire>
+<Unités_en_stock>62</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>59</Réf_produit>
+<Nom_du_produit>Raclette Courdavault</Nom_du_produit>
+<N_fournisseur>28</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>1 carton (5 kg)</Quantité_par_unité>
+<Prix_unitaire>55</Prix_unitaire>
+<Unités_en_stock>79</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>60</Réf_produit>
+<Nom_du_produit>Camembert Pierrot</Nom_du_produit>
+<N_fournisseur>28</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>15 unités (300 g)</Quantité_par_unité>
+<Prix_unitaire>34</Prix_unitaire>
+<Unités_en_stock>19</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>61</Réf_produit>
+<Nom_du_produit>Sirop d&apos;érable</Nom_du_produit>
+<N_fournisseur>29</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (500 ml)</Quantité_par_unité>
+<Prix_unitaire>28.5</Prix_unitaire>
+<Unités_en_stock>113</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>62</Réf_produit>
+<Nom_du_produit>Tarte au sucre</Nom_du_produit>
+<N_fournisseur>29</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>48 tartes</Quantité_par_unité>
+<Prix_unitaire>49.3</Prix_unitaire>
+<Unités_en_stock>17</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>63</Réf_produit>
+<Nom_du_produit>Vegie-spread</Nom_du_produit>
+<N_fournisseur>7</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>15 pots (625 g)</Quantité_par_unité>
+<Prix_unitaire>43.9</Prix_unitaire>
+<Unités_en_stock>24</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>64</Réf_produit>
+<Nom_du_produit>Wimmers gute Semmelknödel</Nom_du_produit>
+<N_fournisseur>12</N_fournisseur>
+<Code_catégorie>5</Code_catégorie>
+<Quantité_par_unité>20 sacs x 4 pièces</Quantité_par_unité>
+<Prix_unitaire>33.25</Prix_unitaire>
+<Unités_en_stock>22</Unités_en_stock>
+<Unités_commandées>80</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>65</Réf_produit>
+<Nom_du_produit>Louisiana Fiery Hot Pepper Sauce</Nom_du_produit>
+<N_fournisseur>2</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>32 bouteilles (8 onces)</Quantité_par_unité>
+<Prix_unitaire>21.05</Prix_unitaire>
+<Unités_en_stock>76</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>66</Réf_produit>
+<Nom_du_produit>Louisiana Hot Spiced Okra</Nom_du_produit>
+<N_fournisseur>2</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>24 pots (8 onces)</Quantité_par_unité>
+<Prix_unitaire>17</Prix_unitaire>
+<Unités_en_stock>4</Unités_en_stock>
+<Unités_commandées>100</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>67</Réf_produit>
+<Nom_du_produit>Laughing Lumberjack Lager</Nom_du_produit>
+<N_fournisseur>16</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (12 onces)</Quantité_par_unité>
+<Prix_unitaire>14</Prix_unitaire>
+<Unités_en_stock>52</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>10</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>68</Réf_produit>
+<Nom_du_produit>Scottish Longbreads</Nom_du_produit>
+<N_fournisseur>8</N_fournisseur>
+<Code_catégorie>3</Code_catégorie>
+<Quantité_par_unité>10 sacs x 8 pièces</Quantité_par_unité>
+<Prix_unitaire>12.5</Prix_unitaire>
+<Unités_en_stock>6</Unités_en_stock>
+<Unités_commandées>10</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>69</Réf_produit>
+<Nom_du_produit>Gudbrandsdalsost</Nom_du_produit>
+<N_fournisseur>15</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>1 carton (10 kg)</Quantité_par_unité>
+<Prix_unitaire>36</Prix_unitaire>
+<Unités_en_stock>26</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>70</Réf_produit>
+<Nom_du_produit>Outback Lager</Nom_du_produit>
+<N_fournisseur>7</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (355 ml)</Quantité_par_unité>
+<Prix_unitaire>15</Prix_unitaire>
+<Unités_en_stock>15</Unités_en_stock>
+<Unités_commandées>10</Unités_commandées>
+<Niveau_de_réapprovisionnement>30</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>71</Réf_produit>
+<Nom_du_produit>Fløtemysost</Nom_du_produit>
+<N_fournisseur>15</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>10 cartons (500 g)</Quantité_par_unité>
+<Prix_unitaire>21.5</Prix_unitaire>
+<Unités_en_stock>26</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>72</Réf_produit>
+<Nom_du_produit>Mozzarella di Giovanni</Nom_du_produit>
+<N_fournisseur>14</N_fournisseur>
+<Code_catégorie>4</Code_catégorie>
+<Quantité_par_unité>24 cartons (200 g)</Quantité_par_unité>
+<Prix_unitaire>34.8</Prix_unitaire>
+<Unités_en_stock>14</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>0</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>73</Réf_produit>
+<Nom_du_produit>Röd Kaviar</Nom_du_produit>
+<N_fournisseur>17</N_fournisseur>
+<Code_catégorie>8</Code_catégorie>
+<Quantité_par_unité>24 pots (150 g)</Quantité_par_unité>
+<Prix_unitaire>15</Prix_unitaire>
+<Unités_en_stock>101</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>74</Réf_produit>
+<Nom_du_produit>Longlife Tofu</Nom_du_produit>
+<N_fournisseur>4</N_fournisseur>
+<Code_catégorie>7</Code_catégorie>
+<Quantité_par_unité>1 carton (5 kg)</Quantité_par_unité>
+<Prix_unitaire>10</Prix_unitaire>
+<Unités_en_stock>4</Unités_en_stock>
+<Unités_commandées>20</Unités_commandées>
+<Niveau_de_réapprovisionnement>5</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>75</Réf_produit>
+<Nom_du_produit>Rhönbräu Klosterbier</Nom_du_produit>
+<N_fournisseur>12</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>24 bouteilles (0,5 litre)</Quantité_par_unité>
+<Prix_unitaire>7.75</Prix_unitaire>
+<Unités_en_stock>125</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>25</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>76</Réf_produit>
+<Nom_du_produit>Lakkalikööri</Nom_du_produit>
+<N_fournisseur>23</N_fournisseur>
+<Code_catégorie>1</Code_catégorie>
+<Quantité_par_unité>1 bouteille (500 ml)</Quantité_par_unité>
+<Prix_unitaire>18</Prix_unitaire>
+<Unités_en_stock>57</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>20</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+<Produits>
+<Réf_produit>77</Réf_produit>
+<Nom_du_produit>Original Frankfurter grüne Soße</Nom_du_produit>
+<N_fournisseur>12</N_fournisseur>
+<Code_catégorie>2</Code_catégorie>
+<Quantité_par_unité>12 boîtes</Quantité_par_unité>
+<Prix_unitaire>13</Prix_unitaire>
+<Unités_en_stock>32</Unités_en_stock>
+<Unités_commandées>0</Unités_commandées>
+<Niveau_de_réapprovisionnement>15</Niveau_de_réapprovisionnement>
+<Indisponible>0</Indisponible>
+</Produits>
+</dataroot>

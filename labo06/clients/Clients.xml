@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  href="Liste_Client_France.xsl" type="text/xsl"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" >
+<Clients>
+<Code_x0020_client>ALFKI</Code_x0020_client>
+<Société>Alfreds Futterkiste</Société>
+<Contact>Maria Anders</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Obere Str. 57</Adresse>
+<Ville>Berlin</Ville>
+<Code_x0020_postal>12209</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>030-0074321</Téléphone>
+<Fax>030-0076545</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>ANATR</Code_x0020_client>
+<Société>Ana Trujillo Emparedados y helados</Société>
+<Contact>Ana Trujillo</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Avda. de la Constitución 2222</Adresse>
+<Ville>México D.F.</Ville>
+<Code_x0020_postal>05021</Code_x0020_postal>
+<Pays>Mexique</Pays>
+<Téléphone>(5) 555-4729</Téléphone>
+<Fax>(5) 555-3745</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>ANTON</Code_x0020_client>
+<Société>Antonio Moreno Taquería</Société>
+<Contact>Antonio Moreno</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Mataderos  2312</Adresse>
+<Ville>México D.F.</Ville>
+<Code_x0020_postal>05023</Code_x0020_postal>
+<Pays>Mexique</Pays>
+<Téléphone>(5) 555-3932</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>AROUT</Code_x0020_client>
+<Société>Around the Horn</Société>
+<Contact>Thomas Hardy</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>120 Hanover Sq.</Adresse>
+<Ville>London</Ville>
+<Code_x0020_postal>WA1 1DP</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(71) 555-7788</Téléphone>
+<Fax>(71) 555-6750</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BERGS</Code_x0020_client>
+<Société>Berglunds snabbköp</Société>
+<Contact>Christina Berglund</Contact>
+<Fonction>Acheteur</Fonction>
+<Adresse>Berguvsvägen  8</Adresse>
+<Ville>Luleå</Ville>
+<Code_x0020_postal>S-958 22</Code_x0020_postal>
+<Pays>Suède</Pays>
+<Téléphone>0921-12 34 65</Téléphone>
+<Fax>0921-12 34 67</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BLAUS</Code_x0020_client>
+<Société>Blauer See Delikatessen</Société>
+<Contact>Hanna Moos</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Forsterstr. 57</Adresse>
+<Ville>Mannheim</Ville>
+<Code_x0020_postal>68306</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0621-08460</Téléphone>
+<Fax>0621-08924</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BLONP</Code_x0020_client>
+<Société>Blondel père et fils</Société>
+<Contact>Frédérique Citeaux</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>24, place Kléber</Adresse>
+<Ville>Strasbourg</Ville>
+<Code_x0020_postal>67000</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>03.88.60.15.31</Téléphone>
+<Fax>03.88.60.15.32</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BOLID</Code_x0020_client>
+<Société>Bólido Comidas preparadas</Société>
+<Contact>Martín Sommer</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>C/ Araquil, 67</Adresse>
+<Ville>Madrid</Ville>
+<Code_x0020_postal>28023</Code_x0020_postal>
+<Pays>Espagne</Pays>
+<Téléphone>(91) 555 22 82</Téléphone>
+<Fax>(91) 555 91 99</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BONAP</Code_x0020_client>
+<Société><![CDATA[Bon app']]></Société>
+<Contact>Laurence Lebihan</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>12, rue des Bouchers</Adresse>
+<Ville>Marseille</Ville>
+<Code_x0020_postal>13008</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>04.91.24.45.40</Téléphone>
+<Fax>04.91.24.45.41</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BOTTM</Code_x0020_client>
+<Société>Bottom-Dollar Markets</Société>
+<Contact>Elizabeth Lincoln</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>23 Tsawassen Blvd.</Adresse>
+<Ville>Tsawassen</Ville>
+<Région>BC</Région>
+<Code_x0020_postal>T2F 8M4</Code_x0020_postal>
+<Pays>Canada</Pays>
+<Téléphone>(604) 555-4729</Téléphone>
+<Fax>(604) 555-3745</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>BSBEV</Code_x0020_client>
+<Société><![CDATA[B's Beverages]]></Société>
+<Contact>Victoria Ashworth</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Fauntleroy Circus</Adresse>
+<Ville>London</Ville>
+<Code_x0020_postal>EC2 5NT</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(71) 555-1212</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>CACTU</Code_x0020_client>
+<Société>Cactus Comidas para llevar</Société>
+<Contact>Patricio Simpson</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Cerrito 333</Adresse>
+<Ville>Buenos Aires</Ville>
+<Code_x0020_postal>1010</Code_x0020_postal>
+<Pays>Argentine</Pays>
+<Téléphone>(1) 135-5555</Téléphone>
+<Fax>(1) 135-4892</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>CENTC</Code_x0020_client>
+<Société>Centro comercial Moctezuma</Société>
+<Contact>Francisco Chang</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>Sierras de Granada 9993</Adresse>
+<Ville>México D.F.</Ville>
+<Code_x0020_postal>05022</Code_x0020_postal>
+<Pays>Mexique</Pays>
+<Téléphone>(5) 555-3392</Téléphone>
+<Fax>(5) 555-7293</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>CHOPS</Code_x0020_client>
+<Société>Chop-suey Chinese</Société>
+<Contact>Yang Wang</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Hauptstr. 29</Adresse>
+<Ville>Bern</Ville>
+<Code_x0020_postal>3012</Code_x0020_postal>
+<Pays>Suisse</Pays>
+<Téléphone>0452-076545</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>COMMI</Code_x0020_client>
+<Société>Comércio Mineiro</Société>
+<Contact>Pedro Afonso</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Av. dos Lusíadas, 23</Adresse>
+<Ville>São Paulo</Ville>
+<Région>SP</Région>
+<Code_x0020_postal>05432-043</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(11) 555-7647</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>CONSH</Code_x0020_client>
+<Société>Consolidated Holdings</Société>
+<Contact>Elizabeth Brown</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse><![CDATA[Berkeley Gardens
+12  Brewery ]]></Adresse>
+<Ville>London</Ville>
+<Code_x0020_postal>WX1 6LT</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(71) 555-2282</Téléphone>
+<Fax>(71) 555-9199</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>DRACD</Code_x0020_client>
+<Société>Drachenblut Delikatessen</Société>
+<Contact>Sven Ottlieb</Contact>
+<Fonction>Acheteur</Fonction>
+<Adresse>Walserweg 21</Adresse>
+<Ville>Aachen</Ville>
+<Code_x0020_postal>52066</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0241-039123</Téléphone>
+<Fax>0241-059428</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>DUMON</Code_x0020_client>
+<Société>Du monde entier</Société>
+<Contact>Janine Labrune</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>67, rue des Cinquante Otages</Adresse>
+<Ville>Nantes</Ville>
+<Code_x0020_postal>44000</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>02.40.67.88.88</Téléphone>
+<Fax>02.40.67.89.89</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>EASTC</Code_x0020_client>
+<Société>Eastern Connection</Société>
+<Contact>Ann Devon</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>35 King George</Adresse>
+<Ville>London</Ville>
+<Code_x0020_postal>WX3 6FW</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(71) 555-0297</Téléphone>
+<Fax>(71) 555-3373</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>ERNSH</Code_x0020_client>
+<Société>Ernst Handel</Société>
+<Contact>Roland Mendel</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>Kirchgasse 6</Adresse>
+<Ville>Graz</Ville>
+<Code_x0020_postal>8010</Code_x0020_postal>
+<Pays>Autriche</Pays>
+<Téléphone>7675-3425</Téléphone>
+<Fax>7675-3426</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>FAMIA</Code_x0020_client>
+<Société>Familia Arquibaldo</Société>
+<Contact>Aria Cruz</Contact>
+<Fonction>Assistant(e) marketing</Fonction>
+<Adresse>Rua Orós, 92</Adresse>
+<Ville>São Paulo</Ville>
+<Région>SP</Région>
+<Code_x0020_postal>05442-030</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(11) 555-9857</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>FISSA</Code_x0020_client>
+<Société>FISSA Fabrica Inter. Salchichas S.A.</Société>
+<Contact>Diego Roel</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>C/ Moralzarzal, 86</Adresse>
+<Ville>Madrid</Ville>
+<Code_x0020_postal>28034</Code_x0020_postal>
+<Pays>Espagne</Pays>
+<Téléphone>(91) 555 94 44</Téléphone>
+<Fax>(91) 555 55 93</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>FOLIG</Code_x0020_client>
+<Société>Folies gourmandes</Société>
+<Contact>Martine Rancé</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>184, chaussée de Tournai</Adresse>
+<Ville>Lille</Ville>
+<Code_x0020_postal>59000</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>03.20.16.10.16</Téléphone>
+<Fax>03.20.16.10.17</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>FOLKO</Code_x0020_client>
+<Société>Folk och fä HB</Société>
+<Contact>Maria Larsson</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Åkergatan 24</Adresse>
+<Ville>Bräcke</Ville>
+<Code_x0020_postal>S-844 67</Code_x0020_postal>
+<Pays>Suède</Pays>
+<Téléphone>0695-34 67 21</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>FRANK</Code_x0020_client>
+<Société>Frankenversand</Société>
+<Contact>Peter Franken</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>Berliner Platz 43</Adresse>
+<Ville>München</Ville>
+<Code_x0020_postal>80805</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>089-0877310</Téléphone>
+<Fax>089-0877451</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>FRANR</Code_x0020_client>
+<Société>France restauration</Société>
+<Contact>Carine Schmitt</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>54, rue Royale</Adresse>
+<Ville>Nantes</Ville>
+<Code_x0020_postal>44000</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>02.40.32.21.21</Téléphone>
+<Fax>02.40.32.21.20</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>FRANS</Code_x0020_client>
+<Société>Franchi S.p.A.</Société>
+<Contact>Paolo Accorti</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Via Monte Bianco 34</Adresse>
+<Ville>Torino</Ville>
+<Code_x0020_postal>10100</Code_x0020_postal>
+<Pays>Italie</Pays>
+<Téléphone>011-4988260</Téléphone>
+<Fax>011-4988261</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>FURIB</Code_x0020_client>
+<Société>Furia Bacalhau e Frutos do Mar</Société>
+<Contact><![CDATA[Lino Rodriguez ]]></Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>Jardim das rosas n. 32</Adresse>
+<Ville>Lisboa</Ville>
+<Code_x0020_postal>1675</Code_x0020_postal>
+<Pays>Portugal</Pays>
+<Téléphone>(1) 354-2534</Téléphone>
+<Fax>(1) 354-2535</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>GALED</Code_x0020_client>
+<Société>Galería del gastrónomo</Société>
+<Contact>Eduardo Saavedra</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>Rambla de Cataluña, 23</Adresse>
+<Ville>Barcelona</Ville>
+<Code_x0020_postal>08022</Code_x0020_postal>
+<Pays>Espagne</Pays>
+<Téléphone>(93) 203 4560</Téléphone>
+<Fax>(93) 203 4561</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>GODOS</Code_x0020_client>
+<Société>Godos Cocina Típica</Société>
+<Contact>José Pedro Freyre</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>C/ Romero, 33</Adresse>
+<Ville>Sevilla</Ville>
+<Code_x0020_postal>41101</Code_x0020_postal>
+<Pays>Espagne</Pays>
+<Téléphone>(95) 555 82 82</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>GOURL</Code_x0020_client>
+<Société>Gourmet Lanchonetes</Société>
+<Contact>André Fonseca</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Av. Brasil, 442</Adresse>
+<Ville>Campinas</Ville>
+<Région>SP</Région>
+<Code_x0020_postal>04876-786</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(11) 555-9482</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>GREAL</Code_x0020_client>
+<Société>Great Lakes Food Market</Société>
+<Contact>Howard Snyder</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>2732 Baker Blvd.</Adresse>
+<Ville>Eugene</Ville>
+<Région>OR</Région>
+<Code_x0020_postal>97403</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(503) 555-7555</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>GROSR</Code_x0020_client>
+<Société>GROSELLA-Restaurante</Société>
+<Contact>Manuel Pereira</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>5ª Ave. Los Palos Grandes</Adresse>
+<Ville>Caracas</Ville>
+<Région>DF</Région>
+<Code_x0020_postal>1081</Code_x0020_postal>
+<Pays>Venezuela</Pays>
+<Téléphone>(2) 283-2951</Téléphone>
+<Fax>(2) 283-3397</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>HANAR</Code_x0020_client>
+<Société>Hanari Carnes</Société>
+<Contact>Mario Pontes</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Rua do Paço, 67</Adresse>
+<Ville>Rio de Janeiro</Ville>
+<Région>RJ</Région>
+<Code_x0020_postal>05454-876</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(21) 555-0091</Téléphone>
+<Fax>(21) 555-8765</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>HILAA</Code_x0020_client>
+<Société>HILARIÓN-Abastos</Société>
+<Contact>Carlos Hernández</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Carrera 22 con Ave. Carlos Soublette #8-35</Adresse>
+<Ville>San Cristóbal</Ville>
+<Région>Táchira</Région>
+<Code_x0020_postal>5022</Code_x0020_postal>
+<Pays>Venezuela</Pays>
+<Téléphone>(5) 555-1340</Téléphone>
+<Fax>(5) 555-1948</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>HUNGC</Code_x0020_client>
+<Société>Hungry Coyote Import Store</Société>
+<Contact>Yoshi Latimer</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>City Center Plaza
+516 Main St.</Adresse>
+<Ville>Elgin</Ville>
+<Région>OR</Région>
+<Code_x0020_postal>97827</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(503) 555-6874</Téléphone>
+<Fax>(503) 555-2376</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>HUNGO</Code_x0020_client>
+<Société>Hungry Owl All-Night Grocers</Société>
+<Contact>Patricia McKenna</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>8 Johnstown Road</Adresse>
+<Ville>Cork</Ville>
+<Région>Co. Cork</Région>
+<Pays>Irlande</Pays>
+<Téléphone>2967 542</Téléphone>
+<Fax>2967 3333</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>ISLAT</Code_x0020_client>
+<Société>Island Trading</Société>
+<Contact>Helen Bennett</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>Garden House
+Crowther Way</Adresse>
+<Ville>Cowes</Ville>
+<Région>Isle of Wight</Région>
+<Code_x0020_postal>PO31 7PJ</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(198) 555-8888</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>KOENE</Code_x0020_client>
+<Société>Königlich Essen</Société>
+<Contact>Philip Cramer</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Maubelstr. 90</Adresse>
+<Ville>Brandenburg</Ville>
+<Code_x0020_postal>14776</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0555-09876</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>LACOR</Code_x0020_client>
+<Société><![CDATA[La corne d'abondance]]></Société>
+<Contact>Daniel Tonini</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse><![CDATA[67, avenue de l'Europe]]></Adresse>
+<Ville>Versailles</Ville>
+<Code_x0020_postal>78000</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>01.30.59.84.10</Téléphone>
+<Fax>01.30.59.85.11</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LAMAI</Code_x0020_client>
+<Société><![CDATA[La maison d'Asie]]></Société>
+<Contact>Annette Roulet</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>1 rue Alsace-Lorraine</Adresse>
+<Ville>Toulouse</Ville>
+<Code_x0020_postal>31000</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>05.61.77.61.10</Téléphone>
+<Fax>05.61.77.61.11</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LAUGB</Code_x0020_client>
+<Société>Laughing Bacchus Wine Cellars</Société>
+<Contact>Yoshi Tannamuri</Contact>
+<Fonction>Assistant(e) marketing</Fonction>
+<Adresse>1900 Oak St.</Adresse>
+<Ville>Vancouver</Ville>
+<Région>BC</Région>
+<Code_x0020_postal>V3F 2K1</Code_x0020_postal>
+<Pays>Canada</Pays>
+<Téléphone>(604) 555-3392</Téléphone>
+<Fax>(604) 555-7293</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LAZYK</Code_x0020_client>
+<Société>Lazy K Kountry Store</Société>
+<Contact>John Steel</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>12 Orchestra Terrace</Adresse>
+<Ville>Walla Walla</Ville>
+<Région>WA</Région>
+<Code_x0020_postal>99362</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(509) 555-7969</Téléphone>
+<Fax>(509) 555-6221</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LEHMS</Code_x0020_client>
+<Société>Lehmanns Marktstand</Société>
+<Contact>Renate Messner</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Magazinweg 7</Adresse>
+<Ville><![CDATA[Frankfurt a.M. ]]></Ville>
+<Code_x0020_postal>60528</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>069-0245984</Téléphone>
+<Fax>069-0245874</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LETSS</Code_x0020_client>
+<Société><![CDATA[Let's Stop N Shop]]></Société>
+<Contact>Jaime Yorres</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>87 Polk St.
+Suite 5</Adresse>
+<Ville>San Francisco</Ville>
+<Région>CA</Région>
+<Code_x0020_postal>94117</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(415) 555-5938</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>LILAS</Code_x0020_client>
+<Société>LILA-Supermercado</Société>
+<Contact>Carlos González</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Carrera 52 con Ave. Bolívar #65-98 Llano Largo</Adresse>
+<Ville>Barquisimeto</Ville>
+<Région>Lara</Région>
+<Code_x0020_postal>3508</Code_x0020_postal>
+<Pays>Venezuela</Pays>
+<Téléphone>(9) 331-6954</Téléphone>
+<Fax>(9) 331-7256</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LINOD</Code_x0020_client>
+<Société>LINO-Delicateses</Société>
+<Contact>Felipe Izquierdo</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Ave. 5 de Mayo Porlamar</Adresse>
+<Ville>I. de Margarita</Ville>
+<Région>Nueva Esparta</Région>
+<Code_x0020_postal>4980</Code_x0020_postal>
+<Pays>Venezuela</Pays>
+<Téléphone>(8) 34-56-12</Téléphone>
+<Fax>(8) 34-93-93</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>LONEP</Code_x0020_client>
+<Société>Lonesome Pine Restaurant</Société>
+<Contact>Fran Wilson</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>89 Chiaroscuro Rd.</Adresse>
+<Ville>Portland</Ville>
+<Région>OR</Région>
+<Code_x0020_postal>97219</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(503) 555-9573</Téléphone>
+<Fax>(503) 555-9646</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>MAGAA</Code_x0020_client>
+<Société>Magazzini Alimentari Riuniti</Société>
+<Contact>Giovanni Rovelli</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>Via Ludovico il Moro 22</Adresse>
+<Ville>Bergamo</Ville>
+<Code_x0020_postal>24100</Code_x0020_postal>
+<Pays>Italie</Pays>
+<Téléphone>035-640230</Téléphone>
+<Fax>035-640231</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>MAISD</Code_x0020_client>
+<Société>Maison Dewey</Société>
+<Contact>Catherine Dewey</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Rue Joseph-Bens 532</Adresse>
+<Ville>Bruxelles</Ville>
+<Code_x0020_postal>B-1180</Code_x0020_postal>
+<Pays>Belgique</Pays>
+<Téléphone>(02) 201 24 67</Téléphone>
+<Fax>(02) 201 24 68</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>MEREP</Code_x0020_client>
+<Société>Mère Paillarde</Société>
+<Contact>Jean Fresnière</Contact>
+<Fonction>Assistant(e) marketing</Fonction>
+<Adresse>43 rue St. Laurent</Adresse>
+<Ville>Montréal</Ville>
+<Région>Québec</Région>
+<Code_x0020_postal>H1J 1C3</Code_x0020_postal>
+<Pays>Canada</Pays>
+<Téléphone>(514) 555-8054</Téléphone>
+<Fax>(514) 555-8055</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>MORGK</Code_x0020_client>
+<Société>Morgenstern Gesundkost</Société>
+<Contact>Alexander Feuer</Contact>
+<Fonction>Assistant(e) marketing</Fonction>
+<Adresse>Heerstr. 22</Adresse>
+<Ville>Leipzig</Ville>
+<Code_x0020_postal>04179</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0342-023176</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>NORTS</Code_x0020_client>
+<Société>North/South</Société>
+<Contact>Simon Crowther</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>South House
+300 Queensbridge</Adresse>
+<Ville>London</Ville>
+<Code_x0020_postal>SW7 1RZ</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(71) 555-7733</Téléphone>
+<Fax>(71) 555-2530</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>OCEAN</Code_x0020_client>
+<Société>Océano Atlántico Ltda.</Société>
+<Contact>Yvonne Moncada</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Ing. Gustavo Moncada 8585
+Piso 20-A</Adresse>
+<Ville>Buenos Aires</Ville>
+<Code_x0020_postal>1010</Code_x0020_postal>
+<Pays>Argentine</Pays>
+<Téléphone>(1) 135-5333</Téléphone>
+<Fax>(1) 135-5535</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>OLDWO</Code_x0020_client>
+<Société>Old World Delicatessen</Société>
+<Contact>Rene Phillips</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>2743 Bering St.</Adresse>
+<Ville>Anchorage</Ville>
+<Région>AK</Région>
+<Code_x0020_postal>99508</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(907) 555-7584</Téléphone>
+<Fax>(907) 555-2880</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>OTTIK</Code_x0020_client>
+<Société>Ottilies Käseladen</Société>
+<Contact>Henriette Pfalzheim</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Mehrheimerstr. 369</Adresse>
+<Ville>Köln</Ville>
+<Code_x0020_postal>50739</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0221-0644327</Téléphone>
+<Fax>0221-0765721</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>PARIS</Code_x0020_client>
+<Société>Paris spécialités</Société>
+<Contact>Marie Bertrand</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>265, boulevard Charonne</Adresse>
+<Ville>Paris</Ville>
+<Code_x0020_postal>75012</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>01.42.34.22.66</Téléphone>
+<Fax>01.42.34.22.77</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>PERIC</Code_x0020_client>
+<Société>Pericles Comidas clásicas</Société>
+<Contact>Guillermo Fernández</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Calle Dr. Jorge Cash 321</Adresse>
+<Ville>México D.F.</Ville>
+<Code_x0020_postal>05033</Code_x0020_postal>
+<Pays>Mexique</Pays>
+<Téléphone>(5) 552-3745</Téléphone>
+<Fax>(5) 545-3745</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>PICCO</Code_x0020_client>
+<Société>Piccolo und mehr</Société>
+<Contact>Georg Pipps</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>Geislweg 14</Adresse>
+<Ville>Salzburg</Ville>
+<Code_x0020_postal>5020</Code_x0020_postal>
+<Pays>Autriche</Pays>
+<Téléphone>6562-9722</Téléphone>
+<Fax>6562-9723</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>PRINI</Code_x0020_client>
+<Société>Princesa Isabel Vinhos</Société>
+<Contact>Isabel de Castro</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Estrada da saúde n. 58</Adresse>
+<Ville>Lisboa</Ville>
+<Code_x0020_postal>1756</Code_x0020_postal>
+<Pays>Portugal</Pays>
+<Téléphone>(1) 356-5634</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>QUEDE</Code_x0020_client>
+<Société>Que Delícia</Société>
+<Contact>Bernardo Batista</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Rua da Panificadora, 12</Adresse>
+<Ville>Rio de Janeiro</Ville>
+<Région>RJ</Région>
+<Code_x0020_postal>02389-673</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(21) 555-4252</Téléphone>
+<Fax>(21) 555-4545</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>QUEEN</Code_x0020_client>
+<Société>Queen Cozinha</Société>
+<Contact>Lúcia Carvalho</Contact>
+<Fonction>Assistant(e) marketing</Fonction>
+<Adresse>Alameda dos Canàrios, 891</Adresse>
+<Ville>São Paulo</Ville>
+<Région>SP</Région>
+<Code_x0020_postal>05487-020</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(11) 555-1189</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>QUICK</Code_x0020_client>
+<Société>QUICK-Stop</Société>
+<Contact>Horst Kloss</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Taucherstraße 10</Adresse>
+<Ville>Cunewalde</Ville>
+<Code_x0020_postal>01307</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0372-035188</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>RANCH</Code_x0020_client>
+<Société>Rancho grande</Société>
+<Contact>Sergio Gutiérrez</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Av. del Libertador 900</Adresse>
+<Ville>Buenos Aires</Ville>
+<Code_x0020_postal>1010</Code_x0020_postal>
+<Pays>Argentine</Pays>
+<Téléphone>(1) 123-5555</Téléphone>
+<Fax>(1) 123-5556</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>RATTC</Code_x0020_client>
+<Société>Rattlesnake Canyon Grocery</Société>
+<Contact>Paula Wilson</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>2817 Milton Dr.</Adresse>
+<Ville>Albuquerque</Ville>
+<Région>NM</Région>
+<Code_x0020_postal>87110</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(505) 555-5939</Téléphone>
+<Fax>(505) 555-3620</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>REGGC</Code_x0020_client>
+<Société>Reggiani Caseifici</Société>
+<Contact>Maurizio Moroni</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>Strada Provinciale 124</Adresse>
+<Ville>Reggio Emilia</Ville>
+<Code_x0020_postal>42100</Code_x0020_postal>
+<Pays>Italie</Pays>
+<Téléphone>0522-556721</Téléphone>
+<Fax>0522-556722</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>RICAR</Code_x0020_client>
+<Société>Ricardo Adocicados</Société>
+<Contact>Janete Limeira</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Av. Copacabana, 267</Adresse>
+<Ville>Rio de Janeiro</Ville>
+<Région>RJ</Région>
+<Code_x0020_postal>02389-890</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(21) 555-3412</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>RICSU</Code_x0020_client>
+<Société>Richter Supermarkt</Société>
+<Contact>Michael Holz</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>Grenzacherweg 237</Adresse>
+<Ville>Genève</Ville>
+<Code_x0020_postal>1203</Code_x0020_postal>
+<Pays>Suisse</Pays>
+<Téléphone>0897-034214</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>ROMEY</Code_x0020_client>
+<Société>Romero y tomillo</Société>
+<Contact>Alejandra Camino</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Gran Vía, 1</Adresse>
+<Ville>Madrid</Ville>
+<Code_x0020_postal>28001</Code_x0020_postal>
+<Pays>Espagne</Pays>
+<Téléphone>(91) 745 6200</Téléphone>
+<Fax>(91) 745 6210</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>SANTG</Code_x0020_client>
+<Société>Santé Gourmet</Société>
+<Contact>Jonas Bergulfsen</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Erling Skakkes gate 78</Adresse>
+<Ville>Stavern</Ville>
+<Code_x0020_postal>4110</Code_x0020_postal>
+<Pays>Norvège</Pays>
+<Téléphone>07-98 92 35</Téléphone>
+<Fax>07-98 92 47</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>SAVEA</Code_x0020_client>
+<Société>Save-a-lot Markets</Société>
+<Contact>Jose Pavarotti</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>187 Suffolk Ln.</Adresse>
+<Ville>Boise</Ville>
+<Région>ID</Région>
+<Code_x0020_postal>83720</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(208) 555-8097</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>SEVES</Code_x0020_client>
+<Société>Seven Seas Imports</Société>
+<Contact>Hari Kumar</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>90 Wadhurst Rd.</Adresse>
+<Ville>London</Ville>
+<Code_x0020_postal>OX15 4NB</Code_x0020_postal>
+<Pays>Royaume-Uni</Pays>
+<Téléphone>(71) 555-1717</Téléphone>
+<Fax>(71) 555-5646</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>SIMOB</Code_x0020_client>
+<Société>Simons bistro</Société>
+<Contact>Jytte Petersen</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Vinbæltet 34</Adresse>
+<Ville>København</Ville>
+<Code_x0020_postal>1734</Code_x0020_postal>
+<Pays>Danemark</Pays>
+<Téléphone>31 12 34 56</Téléphone>
+<Fax>31 13 35 57</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>SPECD</Code_x0020_client>
+<Société>Spécialités du monde</Société>
+<Contact>Dominique Perrier</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>25, rue Lauriston</Adresse>
+<Ville>Paris</Ville>
+<Code_x0020_postal>75016</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>01.47.55.60.10</Téléphone>
+<Fax>01.47.55.60.20</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>SPLIR</Code_x0020_client>
+<Société><![CDATA[Split Rail Beer & Ale]]></Société>
+<Contact>Art Braunschweiger</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>P.O. Box 555</Adresse>
+<Ville>Lander</Ville>
+<Région>WY</Région>
+<Code_x0020_postal>82520</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(307) 555-4680</Téléphone>
+<Fax>(307) 555-6525</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>SUPRD</Code_x0020_client>
+<Société>Suprêmes délices</Société>
+<Contact>Pascale Cartrain</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Boulevard Tirou, 255</Adresse>
+<Ville>Charleroi</Ville>
+<Code_x0020_postal>B-6000</Code_x0020_postal>
+<Pays>Belgique</Pays>
+<Téléphone>(071) 23 67 22 20</Téléphone>
+<Fax>(071) 23 67 22 21</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>THEBI</Code_x0020_client>
+<Société>The Big Cheese</Société>
+<Contact>Liz Nixon</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>89 Jefferson Way
+Suite 2</Adresse>
+<Ville>Portland</Ville>
+<Région>OR</Région>
+<Code_x0020_postal>97201</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(503) 555-3612</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>THECR</Code_x0020_client>
+<Société>The Cracker Box</Société>
+<Contact>Liu Wong</Contact>
+<Fonction>Assistant(e) marketing</Fonction>
+<Adresse>55 Grizzly Peak Rd.</Adresse>
+<Ville>Butte</Ville>
+<Région>MT</Région>
+<Code_x0020_postal>59801</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(406) 555-5834</Téléphone>
+<Fax>(406) 555-8083</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>TOMSP</Code_x0020_client>
+<Société>Toms Spezialitäten</Société>
+<Contact>Karin Josephs</Contact>
+<Fonction>Directeur du marketing</Fonction>
+<Adresse>Luisenstr. 48</Adresse>
+<Ville>Münster</Ville>
+<Code_x0020_postal>44087</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0251-031259</Téléphone>
+<Fax>0251-035695</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>TORTU</Code_x0020_client>
+<Société>Tortuga Restaurante</Société>
+<Contact>Miguel Angel Paolino</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>Avda. Azteca 123</Adresse>
+<Ville>México D.F.</Ville>
+<Code_x0020_postal>05033</Code_x0020_postal>
+<Pays>Mexique</Pays>
+<Téléphone>(5) 555-2933</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>TRADH</Code_x0020_client>
+<Société>Tradição Hipermercados</Société>
+<Contact>Anabela Domingues</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Av. Inês de Castro, 414</Adresse>
+<Ville>São Paulo</Ville>
+<Région>SP</Région>
+<Code_x0020_postal>05634-030</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(11) 555-2167</Téléphone>
+<Fax>(11) 555-2168</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>TRAIH</Code_x0020_client>
+<Société><![CDATA[Trail's Head Gourmet Provisioners]]></Société>
+<Contact>Helvetius Nagy</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>722 DaVinci Blvd.</Adresse>
+<Ville>Kirkland</Ville>
+<Région>WA</Région>
+<Code_x0020_postal>98034</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(206) 555-8257</Téléphone>
+<Fax>(206) 555-2174</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>VAFFE</Code_x0020_client>
+<Société>Vaffeljernet</Société>
+<Contact>Palle Ibsen</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>Smagsløget 45</Adresse>
+<Ville>Århus</Ville>
+<Code_x0020_postal>8200</Code_x0020_postal>
+<Pays>Danemark</Pays>
+<Téléphone>86 21 32 43</Téléphone>
+<Fax>86 22 33 44</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>VICTE</Code_x0020_client>
+<Société>Victuailles en stock</Société>
+<Contact>Mary Saveley</Contact>
+<Fonction>Assistant(e) des ventes</Fonction>
+<Adresse>2, rue du Commerce</Adresse>
+<Ville>Lyon</Ville>
+<Code_x0020_postal>69004</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>04.78.32.54.86</Téléphone>
+<Fax>04.78.32.54.87</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>VINET</Code_x0020_client>
+<Société>Vins et alcools Chevalier</Société>
+<Contact>Paul Henriot</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse><![CDATA[59 rue de l'Abbaye]]></Adresse>
+<Ville>Reims</Ville>
+<Code_x0020_postal>51100</Code_x0020_postal>
+<Pays>France</Pays>
+<Téléphone>03.26.47.15.10</Téléphone>
+<Fax>03.26.47.15.11</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>WANDK</Code_x0020_client>
+<Société>Die Wandernde Kuh</Société>
+<Contact>Rita Müller</Contact>
+<Fonction>Représentant(e)</Fonction>
+<Adresse>Adenauerallee 900</Adresse>
+<Ville>Stuttgart</Ville>
+<Code_x0020_postal>70563</Code_x0020_postal>
+<Pays>Allemagne</Pays>
+<Téléphone>0711-020361</Téléphone>
+<Fax>0711-035428</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>WARTH</Code_x0020_client>
+<Société>Wartian Herkku</Société>
+<Contact>Pirkko Koskitalo</Contact>
+<Fonction>Chef comptable</Fonction>
+<Adresse>Torikatu 38</Adresse>
+<Ville>Oulu</Ville>
+<Code_x0020_postal>90110</Code_x0020_postal>
+<Pays>Finlande</Pays>
+<Téléphone>981-443655</Téléphone>
+<Fax>981-443655</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>WELLI</Code_x0020_client>
+<Société>Wellington Importadora</Société>
+<Contact>Paula Parente</Contact>
+<Fonction>Chef des ventes</Fonction>
+<Adresse>Rua do Mercado, 12</Adresse>
+<Ville>Resende</Ville>
+<Région>SP</Région>
+<Code_x0020_postal>08737-363</Code_x0020_postal>
+<Pays>Brésil</Pays>
+<Téléphone>(14) 555-8122</Téléphone>
+</Clients>
+<Clients>
+<Code_x0020_client>WHITC</Code_x0020_client>
+<Société>White Clover Markets</Société>
+<Contact>Karl Jablonski</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>305 - 14th Ave. S.
+Suite 3B</Adresse>
+<Ville>Seattle</Ville>
+<Région>WA</Région>
+<Code_x0020_postal>98128</Code_x0020_postal>
+<Pays>États-Unis</Pays>
+<Téléphone>(206) 555-4112</Téléphone>
+<Fax>(206) 555-4115</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>WILMK</Code_x0020_client>
+<Société>Wilman Kala</Société>
+<Contact>Matti Karttunen</Contact>
+<Fonction>Assistant du marketing</Fonction>
+<Adresse>Keskuskatu 45</Adresse>
+<Ville>Helsinki</Ville>
+<Code_x0020_postal>21240</Code_x0020_postal>
+<Pays>Finlande</Pays>
+<Téléphone>90-224 8858</Téléphone>
+<Fax>90-224 8858</Fax>
+</Clients>
+<Clients>
+<Code_x0020_client>WOLZA</Code_x0020_client>
+<Société>Wolski  Zajazd</Société>
+<Contact>Zbyszek Piestrzeniewicz</Contact>
+<Fonction>Propriétaire</Fonction>
+<Adresse>ul. Filtrowa 68</Adresse>
+<Ville>Warszawa</Ville>
+<Code_x0020_postal>01-012</Code_x0020_postal>
+<Pays>Pologne</Pays>
+<Téléphone>(26) 642-7012</Téléphone>
+<Fax>(26) 642-7012</Fax>
+</Clients>
+</dataroot>

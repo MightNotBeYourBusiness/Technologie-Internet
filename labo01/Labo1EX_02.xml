@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Motclé/la version/type d'encodage/doc associé ou non-->
+<Bottin>
+<!--début du contenu du botin-->
+	<Abonne>
+		<Nom>Cambrier</Nom>
+		<Prenom>Cédric</Prenom>
+		<Tel prefixe="064" numero="263542"> </Tel>
+		<Adresse designation="rue" nom="du puits" numero="56" CodePostal="7160"> </Adresse>
+	</Abonne>
+	
+	<Abonne>
+		<Nom>Dupont</Nom>
+		<Prenom>Alice</Prenom>
+		<Tel prefixe="065" numero="362456"> </Tel>
+		<Adresse designation="avenue" nom="De Gaulle" numero="248" CodePostal="7000"> </Adresse>
+	</Abonne>
+
+	<Abonne>
+		<Nom>Brancart</Nom>
+		<Prenom>Alexandre</Prenom>
+		<Tel prefixe="067" numero="340552"> </Tel>
+		<Adresse designation="boulevard" nom="Sanders" numero="87" CodePostal="7060"> </Adresse>
+	</Abonne>
+<!--fin du contenu du botin-->
+</Bottin>
+	

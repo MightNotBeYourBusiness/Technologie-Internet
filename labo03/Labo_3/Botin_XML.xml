@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="Bottin_css.css" type="text/css"?>
+<!--Motclé version/type d'encodage/doc associasion ou non-->
+<Bottin>
+<!--début du contenu du botin-->
+	<Abonne>
+		<Nom>Cambrier</Nom>
+		<Prenom>Cédric</Prenom>
+		<Prefixe>064</Prefixe>
+		<Tel>263542</Tel>
+		<Adresse>
+			<Numero>56</Numero>
+			<Designation>rue</Designation>
+			<NomR>du puits</NomR>
+			
+		</Adresse>
+		<CodePostal>7160</CodePostal>
+	</Abonne>
+	
+	<Abonne>
+		<Nom>Dupont</Nom>
+		<Prenom>Alice</Prenom>
+		<Prefixe>065</Prefixe>
+		<Tel>362456</Tel>
+		<Adresse>
+			<Numero>248</Numero>
+			<Designation>avenue</Designation>
+			<NomR>De Gaulle</NomR>
+			
+		</Adresse>
+		<CodePostal>7000</CodePostal>
+	</Abonne>
+
+	<Abonne>
+		<Nom>Brancart</Nom>
+		<Prenom>Alexandre</Prenom>
+		<Prefixe>067</Prefixe>
+		<Tel>340552</Tel>
+		<Adresse>
+			<Numero>87</Numero>
+			<Designation>boulevard</Designation>
+			<NomR>Sanders</NomR>
+			
+		</Adresse>
+		<CodePostal>7060</CodePostal>
+	</Abonne>
+<!--fin du contenu du botin-->
+</Bottin>
+	

@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Document sans titre</title>
+<script language="JavaScript" type="text/JavaScript">
+
+function loadXMLDoc(filename)
+//charge un document de type xml en fonction du type de navigateur 
+{
+if (window.ActiveXObject)
+  {
+  xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+  }
+else 
+  {
+  xhttp = new XMLHttpRequest();
+  }
+xhttp.open("GET", filename, false); //false pour avoir un chargement asynchrone, càd que l'on attend la fin du chargement du fichier avant de continuer l'exécution du programme
+try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
+xhttp.send("");
+return xhttp.responseXML;
+}
+
+
+
+function filtrer(pays)
+{
+var xsl = loadXMLDoc("Client.xsl");//loadXMLDoc est une fonction écrite ci-dessus
+var xml = loadXMLDoc("Clients.xml");
+
+// code for IE
+if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+  {
+    var xslt = new ActiveXObject("Msxml2.XSLTemplate.4.0"); 
+    xslt.stylesheet = xsl; 
+    var xslProc; 
+    xslProc = xslt.createProcessor(); 
+    xslProc.input = xml; 
+    xslProc.addParameter('cl', pays); //passage du paramètre "field"
+    xslProc.transform(); 
+	var resultat = xslProc.output;
+	document.getElementById("resultat").innerHTML=resultat; //remplace la div résultat avec le résultat 
+		bout();
+  
+  
+  
+  
+  
+ // ex = xml.transformNode(xsl);
+ // document.getElementById("resultat").innerHTML = ex;
+  }
+// code for Chrome, Firefox, Opera, etc.
+else if (document.implementation && document.implementation.createDocument)
+  {
+	var processor =new XSLTProcessor();
+	processor.importStylesheet(xsl);
+	processor.setParameter(null,"cl", pays);
+	var resultat = processor.transformToFragment(xml,document);
+		document.getElementById("resultat").innerHTML=""; //vide la div résultat
+		document.getElementById("resultat").appendChild(resultat);  // ajoute un noeud avec le resultat de la transformation xslt
+		bout();
+  }
+}
+
+function init()
+{
+var xsl = loadXMLDoc("Client.xsl");//loadXMLDoc est une fonction écrite ci-dessus
+var xml = loadXMLDoc("Clients.xml");
+
+// code for IE
+if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+  {
+    var xslt = new ActiveXObject("Msxml2.XSLTemplate.4.0"); 
+    xslt.stylesheet = xsl; 
+    var xslProc; 
+    xslProc = xslt.createProcessor(); 
+    xslProc.input = xml; 
+    xslProc.transform(); 
+	var resultat = xslProc.output;
+	document.getElementById("Formu").innerHTML=resultat; //remplace la div résultat avec le résultat 
+		
+  
+  
+  
+  
+  
+ // ex = xml.transformNode(xsl);
+ // document.getElementById("resultat").innerHTML = ex;
+  }
+// code for Chrome, Firefox, Opera, etc.
+else if (document.implementation && document.implementation.createDocument)
+  {
+	var processor =new XSLTProcessor();
+	processor.importStylesheet(xsl);
+	var resultat = processor.transformToFragment(xml,document);
+		document.getElementById("Formu").appendChild(resultat);  // ajoute un noeud avec le resultat de la transformation xslt
+  }
+}
+function bout()
+{ // l'utilisation d'un écouteur d'évenement (event listener) va permettre: de ne pas surcharger le code d'une multitude de "onclick=..." dans le code html, ça permet aussi de bien séparer le code HTML du code javascript
+var liste_boutons=document.getElementsByClassName("bt")
+for (var i = 0; i < liste_boutons.length; i++) {
+    liste_boutons[i].addEventListener('click', function() {afficher(this)});
+}
+}
+
+function afficher(bouton)
+{
+window.open("https://www.google.be/maps/place/"+bouton.id);
+}
+
+</script>
+
+</head>
+
+<body onload="init()">
+	<div id="Formu"> </div>
+	<div id="resultat"><i>Résultat ici</i></div>
+</body>
+</html>

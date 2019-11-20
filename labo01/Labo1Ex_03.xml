@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Motclé/la version/type d'encodage/doc associé ou non-->
+<ListeProposition>
+	
+	<PropositionStage>
+		
+		<Etudiant> 
+			<Identite nom=" " prenom=" "> </Identite>
+			<Etude section=" " classe=" "> </Etude>
+		</Etudiant>
+		
+		<Entreprise denomination=" ">
+			<Adresse nom=" " codePostal=" "> </Adresse>
+			<Objet> </Objet>
+			<Directeur sexe=" " nom=" "> </Directeur>
+			<ResponsableStagiaire nom=" " fonction=" "> </ResponsableStagiaire>
+			<Telephone prefixe=" " numero=" " fax=" "> </Telephone>
+		</Entreprise>
+		
+		<AvalDirection>
+			<Remarques> </Remarques>
+			<Date jour=" " mois=" " annee=" "> </Date>
+			<Accord> </Accord>
+		</AvalDirection>
+		
+	</PropositionStage>
+	
+</ListeProposition>

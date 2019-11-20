@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ListeProposition>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Boursin" prenom="Aurélie"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Fidexis">
+             <Objet>assistance technique, commerciale, financière et administrative aux sociétés ou entreprises du groupe </Objet>
+             <ResponsableServ civilisite="Mr" nom="Duez Claude"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Libert"> </ResponsableStagiaire>
+             <Adresse nom="rue de la Charité, 13-17" codePostal="1210" localite="BRUXELLES"> </Adresse>
+             <Telephone>02/209-02-73</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Cambier" prenom="Marylène"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Pixelixir sprl">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Dumont"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Me" nom="Dumont"> </ResponsableStagiaire>
+             <Adresse nom="Venelle de Terlongval, 45" codePostal="1300" localite="WAVRE"> </Adresse>
+             <Telephone>0496/124857</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Coupet" prenom="Cindy"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Scius - ICT">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Eeckout"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Ernoux"> </ResponsableStagiaire>
+             <Adresse nom="Avenue Franklin Roosevelt, 104" codePostal="1332" localite="GENVAL"> </Adresse>
+             <Telephone>0477/277211</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Delbove" prenom="Florence"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Systemat S.A.">
+             <Objet>achat et vente de matériel informatique et télématique </Objet>
+             <ResponsableServ civilisite="Mr" nom="Emmanuel GOFFAUX"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Marques"> </ResponsableStagiaire>
+             <Adresse nom="Chaussée de Louvain, 435 " codePostal="1380" localite="LASNE"> </Adresse>
+             <Telephone>02/4057000</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Detie" prenom="Charlotte"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="ECS - Hermès">
+             <Objet>Consultance en IT </Objet>
+             <ResponsableServ civilisite="Mr" nom="Eric Mrzyglod"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="De Neve"> </ResponsableStagiaire>
+             <Adresse nom="Rue de l'Industrie , 20 " codePostal="1400" localite="NIVELLES"> </Adresse>
+             <Telephone>0479/670016</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Di Costa" prenom="Estelle"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="T.D. Williamson S.A.">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Ernoux"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Vellek"> </ResponsableStagiaire>
+             <Adresse nom="rue du Travail, 6 " codePostal="1400" localite="NIVELLES"> </Adresse>
+             <Telephone>067/21.36.29</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Francart" prenom="David"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="FABRICOM-GTI">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Ernst Vincent"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Lecocq"> </ResponsableStagiaire>
+             <Adresse nom="Chaussée de Tubize, 489" codePostal="1420" localite="BRAINE L'ALLEUD"> </Adresse>
+             <Telephone>0478/154258</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Grumiaux" prenom="Nathan"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Arafox SCRL">
+             <Objet>développements open source </Objet>
+             <ResponsableServ civilisite="Mr" nom="Fabian Boiteux"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Me" nom="Aventure"> </ResponsableStagiaire>
+             <Adresse nom="Avenue Leon Champagne, 2" codePostal="1480" localite="TUBIZE"> </Adresse>
+             <Telephone>023/91.45.51</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Henry" prenom="Xavier"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Stone-IT">
+             <Objet>Security and Open Source consultant </Objet>
+             <ResponsableServ civilisite="Mr" nom="Fagnart"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Ronse"> </ResponsableStagiaire>
+             <Adresse nom="Minervastraat, 14 " codePostal="1930" localite="ZAVENTEM"> </Adresse>
+             <Telephone>02/720.88.35</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Lavenne" prenom="Florentin"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="T-Systems">
+             <Objet>retransmissions mondiales des événements sportifs </Objet>
+             <ResponsableServ civilisite="Mr" nom="Feye Benjamin"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Van Snick"> </ResponsableStagiaire>
+             <Adresse nom="Atlas Park, 41 " codePostal="1930" localite="ZAVENTEM"> </Adresse>
+             <Telephone>02/716.81.68</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Legrand" prenom="Olivier"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Alcatel Bell S.A. Namur">
+             <Objet>Conception, construction et exploitation d’un réseau de radiotéléphones  </Objet>
+             <ResponsableServ civilisite="" nom="Fouad Riane"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Verdonck"> </ResponsableStagiaire>
+             <Adresse nom="Bld Comte De Smet De Nayer, 14" codePostal="5000" localite="NAMUR"> </Adresse>
+             <Telephone>081/23.52.08</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Lenoir" prenom="Sébastien"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Electrabel Distribution Wallonie">
+             <Objet>la vente (fourniture) d’électricité aux clients raccordés au réseau </Objet>
+             <ResponsableServ civilisite="Mr" nom="François Lecardonnel"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Bailleux"> </ResponsableStagiaire>
+             <Adresse nom="Avenue Albert 1er   , 19     " codePostal="5000" localite="NAMUR"> </Adresse>
+             <Telephone>081/24.42.63</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Maréchal" prenom="Jonas"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Province de Namur : Service Informatique et Télécommunications">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Frederik Pardon"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Van de Wiele"> </ResponsableStagiaire>
+             <Adresse nom="Rempart de la Vierge,2 " codePostal="5000" localite="NAMUR"> </Adresse>
+             <Telephone>081/257036</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Marreda" prenom="Florent"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Virtual Technologies">
+             <Objet>Designs, engineers, and manufactures custom communications products </Objet>
+             <ResponsableServ civilisite="Mr" nom="Goffin Henri"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Coppens"> </ResponsableStagiaire>
+             <Adresse nom="Rue Borgnet, 13" codePostal="5000" localite="NAMUR"> </Adresse>
+             <Telephone>081/24-92-13</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Mathieu" prenom="Thibaut"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="I.E.B.S">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Hanot"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Davut"> </ResponsableStagiaire>
+             <Adresse nom="Chemin des artisans, 3c" codePostal="5150" localite="ZONNING DE FLOREFFE"> </Adresse>
+             <Telephone>0479/400220</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Plaschaert" prenom="Charles"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Bmedia">
+             <Objet>Consultant en technologie des medias </Objet>
+             <ResponsableServ civilisite="Mr" nom="Herfurth Julien"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Me" nom="Peters"> </ResponsableStagiaire>
+             <Adresse nom="Route de Mons, 27E" codePostal="6000" localite="CHARLEROI"> </Adresse>
+             <Telephone>071/567169</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Spronken" prenom="Simon"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Espace Santé">
+             <Objet> </Objet>
+             <ResponsableServ civilisite="Mr" nom="Herplelinck Luc"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Breker"> </ResponsableStagiaire>
+             <Adresse nom="Boulevard Zoé Drion, 1" codePostal="6000" localite="CHARLEROI"> </Adresse>
+             <Telephone>0477/201324</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Vallée" prenom="Anthony"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="LOGIC CONSULTANCE">
+             <Objet>Consultant IT </Objet>
+             <ResponsableServ civilisite="Mr" nom="Grioli Johan"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Carlot"> </ResponsableStagiaire>
+             <Adresse nom="Boulevard Tirou,185" codePostal="6000" localite="CHARLEROI"> </Adresse>
+             <Telephone>071/458629</Telephone>
+         </Entreprise>
+     </PropositionStage>
+     <PropositionStage>
+         <Etudiant>
+             <Identite nom="Vertosa" prenom="Damien"> </Identite>
+             <Etude section="informatique" classe="3BI"> </Etude>
+         </Etudiant>
+         <Entreprise denomination="Alstom Belgium Transport">
+             <Objet>opérateur industriel et financier dans le secteur des transport </Objet>
+             <ResponsableServ civilisite="Mr" nom="Iassinovski Sergueï"> </ResponsableServ>
+             <ResponsableStagiaire civilisite="Mr" nom="Van de Wiele"> </ResponsableStagiaire>
+             <Adresse nom="Rue Cambier-Dupret, 50-52   " codePostal="6001" localite="CHARLEROI"> </Adresse>
+             <Telephone>071/743651</Telephone>
+         </Entreprise>
+     </PropositionStage>
+</ListeProposition>

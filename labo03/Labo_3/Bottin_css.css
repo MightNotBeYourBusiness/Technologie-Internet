@@ -1,0 +1,30 @@
+<style type="text/css">
+Bottin , Abonne{}
+Nom,Prenom{ 
+	display : block;
+	width: 250px;
+	font-size: 16pt;
+	font-family: arial;
+	font-weight: bold;
+	background-color: teal;
+	color: white;
+}
+
+Tel,Prefixe{
+	display : inline;
+	padding-top : 20px;
+}
+
+Prefixe{
+	font-weight : bold;
+}
+
+Adresse{
+	display:block;
+	
+}
+CodePostal{
+	display:block;
+	padding-bottom:10px;
+}
+</style>

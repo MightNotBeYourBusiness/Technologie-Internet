@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet  href="ex_XML_XSL.xsl" type="text/xsl"?>
+<Bottin region="Hainaut" annee="2006" >
+<!--dÃ©but du contenu du bottin-->
+	<Abonne id="01">
+		<Nom>Cuvelier</Nom>
+		<Prenom>Charles</Prenom>
+		<Prefixe>064</Prefixe>
+		<Tel>263542</Tel>
+		<Adresse designation="rue" nom="du puits" numero="56"></Adresse>
+		<Ville>Nivelles</Ville>
+		<CodePostal>7160</CodePostal>
+	</Abonne>
+	<Abonne id="02">
+		<Nom>Dupuis</Nom>
+		<Prenom>Béatrice</Prenom>
+		<Prefixe>065</Prefixe>
+		<Tel>362456</Tel>
+		<Adresse designation="avenue" nom="De Gaule" numero="248"></Adresse>
+		<Ville>Mons</Ville>
+		<CodePostal>7000</CodePostal>
+	</Abonne>
+	<Abonne id="03">
+		<Nom>Bossart</Nom>
+		<Prenom>Willy</Prenom>
+		<Prefixe>067</Prefixe>
+		<Tel>340552</Tel>
+		<Adresse designation="boulevard" nom="Sanders" numero="87"></Adresse>
+		<Ville>VilleDieu</Ville>
+		<CodePostal>7060</CodePostal>
+	</Abonne>
+</Bottin>
+<!--fin du contenu du bottin-->

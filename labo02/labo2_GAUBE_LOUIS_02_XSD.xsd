@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ListeProposition">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="unbounded" ref="PropositionStage" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PropositionStage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Etudiant" />
+        <xs:element ref="Entreprise" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Etudiant">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Identite" />
+        <xs:element ref="Etude" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Identite">
+    <xs:complexType>
+      <xs:attribute name="nom" type="xs:string" use="required" />
+      <xs:attribute name="prenom" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Etude">
+    <xs:complexType>
+      <xs:attribute name="section" type="xs:string" use="required" />
+      <xs:attribute name="classe" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Entreprise">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Objet" />
+        <xs:element ref="ResponsableServ" />
+        <xs:element ref="ResponsableStagiaire" />
+        <xs:element ref="Adresse" />
+        <xs:element ref="Telephone" />
+      </xs:sequence>
+      <xs:attribute name="denomination" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Objet" type="xs:string" />
+  <xs:element name="ResponsableServ">
+    <xs:complexType>
+      <xs:attribute name="civilisite" type="xs:string" />
+      <xs:attribute name="nom" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ResponsableStagiaire">
+    <xs:complexType>
+      <xs:attribute name="civilisite" type="xs:string" />
+      <xs:attribute name="nom" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Adresse">
+    <xs:complexType>
+      <xs:attribute name="nom" type="xs:string" use="required" />
+      <xs:attribute name="codePostal" type="xs:string" use="required" />
+      <xs:attribute name="localite" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Telephone" type="xs:string" />
+</xs:schema>
