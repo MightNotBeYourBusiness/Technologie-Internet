@@ -30,10 +30,19 @@ git pull
 
 :push
 echo.
+git add -A
+git status
 echo Name of commit : 
 set /p name=
 git commit -a -m "%name%"
 git push
+
+echo. 
+echo		[1] Return to Menu
+echo 	[2] exit
+set /p choix2=
+	if %choix2% ==1 GOTO menu
+	if %choix2% ==2 GOTO exit
 
 :start
 START C:\"Program Files"\Git\git-bash.exe
