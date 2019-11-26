@@ -7,8 +7,10 @@ color 0e
 echo.
 echo.
 :menu
+
 echo       Make your choice (1-6)
 echo ------------------------------------
+echo.
 echo 	[1] Pull
 echo 	[2] Push
 echo 	[3] More options
@@ -26,9 +28,11 @@ set /p choix=
 	if %choix% ==6 GOTO exit
 	
 :pull
+
 git pull
 
 :push
+
 echo.
 git add -A
 git status
@@ -37,7 +41,12 @@ set /p name=
 git commit -a -m "%name%"
 git push
 
-echo. 
+echo.
+echo.
+echo.
+echo.
+echo ------------------------------- 
+echo.
 echo		[1] Return to Menu
 echo 	[2] exit
 set /p choix2=
@@ -45,30 +54,42 @@ set /p choix2=
 	if %choix2% ==2 GOTO exit
 
 :start
+
 START C:\"Program Files"\Git\git-bash.exe
 pause
 exit
 
 :configProxy
+
 git config --global http.proxy http://172.30.0.101:8080/
+
 echo.
+echo.
+echo ----------------------------
 echo.
 echo Proxy successfully modified
 echo. 
 echo		[1] Return to Menu
 echo 	[2] exit
+echo.
+echo ----------------------------
 set /p choix2=
 	if %choix2% ==1 GOTO menu
 	if %choix2% ==2 GOTO exit
 
 :resetProxy
+
 git config --global --unset http.proxy
+
 echo.
+echo --------------------------
 echo.
 echo Proxy reset succesfull
-echo. 
+echo.
 echo		[1] Return to Menu
 echo 	[2] exit
+echo.
+echo --------------------------
 set /p choix2=
 	if %choix2% ==1 GOTO menu
 	if %choix2% ==2 GOTO exit
