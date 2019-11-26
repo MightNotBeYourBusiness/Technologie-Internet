@@ -6,7 +6,7 @@
              <Etude section="informatique" classe="3BI"> </Etude>
          </Etudiant>
          <Entreprise denomination="Fidexis">
-             <Objet>assistance technique, commerciale, financière et administrative aux sociétés ou entreprises du groupe </Objet>
+             <Objet>assistance technique, commerciale, financière et administrative aux sociétés ou entreprise du groupe </Objet>
              <ResponsableServ civilisite="Mr" nom="Duez Claude"> </ResponsableServ>
              <ResponsableStagiaire civilisite="Mr" nom="Libert"> </ResponsableStagiaire>
              <Adresse nom="rue de la Charité, 13-17" codePostal="1210" localite="BRUXELLES"> </Adresse>
