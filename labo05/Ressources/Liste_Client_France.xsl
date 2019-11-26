@@ -12,9 +12,7 @@
 			
 			<xsl:element  name ="img">
 				
-				<xsl:attribute  name = "SRC" > 
-					drapeau/drap_france.GIF
-				</xsl:attribute>
+				<xsl:attribute  name = "SRC" >drapeau/drap_france.GIF</xsl:attribute>
 				<xsl:attribute  name = "ALIGN">TOP</xsl:attribute>
 			</xsl:element>
 			
